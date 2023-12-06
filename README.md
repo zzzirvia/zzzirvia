@@ -18,40 +18,40 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python" width="40">
-  <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" alt="Java" width="40">
-  <img src="https://img.shields.io/badge/-Fortran-blue?style=for-the-badge&logo=fortran" alt="Fortran" width="40">
-  <img src="https://img.shields.io/badge/-JS/TS-green?style=for-the-badge&logo=javascript" alt="JavaScript/TypeScript" width="40">
-  <img src="https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django" alt="Django" width="40">
-  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" alt="React" width="40">
-  <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular" alt="Angular" width="40">
-  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5" alt="HTML" width="40">
-  <img src="https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css3" alt="CSS" width="40">
-  <img src="https://img.shields.io/badge/-BASH-lightgrey?style=for-the-badge&logo=gnu-bash" alt="BASH" width="40">
-  <img src="https://img.shields.io/badge/-SQL-darkorange?style=for-the-badge&logo=mysql" alt="SQL" width="40">
-  <img src="https://img.shields.io/badge/-VBA-yellow?style=for-the-badge&logo=microsoft-excel" alt="VBA" width="40">
-  <img src="https://img.shields.io/badge/-MPI-darkblue?style=for-the-badge&logo=mpi" alt="MPI" width="40">
+  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/-Fortran-blue?style=for-the-badge&logo=fortran" alt="Fortran">
+  <img src="https://img.shields.io/badge/-JS/TS-green?style=for-the-badge&logo=javascript" alt="JavaScript/TypeScript">
+  <img src="https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django" alt="Django">
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular" alt="Angular">
+  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css3" alt="CSS">
+  <img src="https://img.shields.io/badge/-BASH-lightgrey?style=for-the-badge&logo=gnu-bash" alt="BASH">
+  <img src="https://img.shields.io/badge/-SQL-darkorange?style=for-the-badge&logo=mysql" alt="SQL">
+  <img src="https://img.shields.io/badge/-VBA-yellow?style=for-the-badge&logo=microsoft-excel" alt="VBA">
+  <img src="https://img.shields.io/badge/-MPI-darkblue?style=for-the-badge&logo=mpi" alt="MPI">
 </p>
 
 ### Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" alt="Excel" width="40">
-  <img src="https://img.shields.io/badge/-Power%20Apps-blue?style=flat-square&logo=microsoft-powerpoint" alt="Power Apps" width="40">
-  <img src="https://img.shields.io/badge/-SolidWorks-red?style=flat-square&logo=solidworks" alt="SolidWorks" width="40">
-  <img src="https://img.shields.io/badge/-AutoCad-lightblue?style=flat-square&logo=autodesk" alt="AutoCad" width="40">
-  <img src="https://img.shields.io/badge/-Aspen-lightgreen?style=flat-square&logo=aspen" alt="Aspen" width="40">
-  <img src="https://img.shields.io/badge/-ANSYS-darkred?style=flat-square&logo=ansys" alt="ANSYS" width="40">
-  <img src="https://img.shields.io/badge/-Mathematica-purple?style=flat-square&logo=wolfram" alt="Mathematica" width="40">
-  <img src="https://img.shields.io/badge/-Matlab-yellowgreen?style=flat-square&logo=mathworks" alt="Matlab" width="40">
-  <img src="https://img.shields.io/badge/-Gaussian-blue?style=flat-square&logo=gnu-bash" alt="Gaussian" width="40">
-  <img src="https://img.shields.io/badge/-Gnuplot-lightpurple?style=flat-square&logo=gnuplot" alt="Gnuplot" width="40">
+  <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" alt="Excel">
+  <img src="https://img.shields.io/badge/-Power%20Apps-blue?style=flat-square&logo=microsoft-powerpoint" alt="Power Apps">
+  <img src="https://img.shields.io/badge/-SolidWorks-red?style=flat-square&logo=solidworks" alt="SolidWorks">
+  <img src="https://img.shields.io/badge/-AutoCad-lightblue?style=flat-square&logo=autodesk" alt="AutoCad">
+  <img src="https://img.shields.io/badge/-Aspen-lightgreen?style=flat-square&logo=aspen" alt="Aspen">
+  <img src="https://img.shields.io/badge/-ANSYS-darkred?style=flat-square&logo=ansys" alt="ANSYS">
+  <img src="https://img.shields.io/badge/-Mathematica-purple?style=flat-square&logo=wolfram" alt="Mathematica">
+  <img src="https://img.shields.io/badge/-Matlab-yellowgreen?style=flat-square&logo=mathworks" alt="Matlab">
+  <img src="https://img.shields.io/badge/-Gaussian-blue?style=flat-square&logo=gnu-bash" alt="Gaussian">
+  <img src="https://img.shields.io/badge/-Gnuplot-lightpurple?style=flat-square&logo=gnuplot" alt="Gnuplot">
 </p>
 
 ### Development Practices
 <p align="center">
-  <img src="https://img.shields.io/badge/-Agile-blueviolet?style=flat-square&logo=agile" alt="Agile" width="40">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" width="40">
-  <img src="https://img.shields.io/badge/-Git%20Bash-lightgrey?style=flat-square&logo=gnu-bash" alt="Git Bash" width="40">
+  <img src="https://img.shields.io/badge/-Agile-blueviolet?style=flat-square&logo=agile" alt="Agile">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Git%20Bash-lightgrey?style=flat-square&logo=gnu-bash" alt="Git Bash">
 </p>
 
 ## Languages
