@@ -34,10 +34,25 @@
 </p>
 
 ### Tools
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel) ![Power Apps](https://img.shields.io/badge/-Power%20Apps-blue?style=flat-square&logo=microsoft-powerpoint) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-red?style=flat-square&logo=solidworks) ![AutoCad](https://img.shields.io/badge/-AutoCad-lightblue?style=flat-square&logo=autodesk) ![Aspen](https://img.shields.io/badge/-Aspen-lightgreen?style=flat-square&logo=aspen) ![ANSYS](https://img.shields.io/badge/-ANSYS-darkred?style=flat-square&logo=ansys) ![Mathematica](https://img.shields.io/badge/-Mathematica-purple?style=flat-square&logo=wolfram) ![Matlab](https://img.shields.io/badge/-Matlab-yellowgreen?style=flat-square&logo=mathworks) ![Gaussian](https://img.shields.io/badge/-Gaussian-blue?style=flat-square&logo=gnu-bash) ![Gnuplot](https://img.shields.io/badge/-Gnuplot-lightpurple?style=flat-square&logo=gnuplot)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" alt="Excel">
+  <img src="https://img.shields.io/badge/-Power%20Apps-blue?style=flat-square&logo=microsoft-powerpoint" alt="Power Apps">
+  <img src="https://img.shields.io/badge/-SolidWorks-red?style=flat-square&logo=solidworks" alt="SolidWorks">
+  <img src="https://img.shields.io/badge/-AutoCad-lightblue?style=flat-square&logo=autodesk" alt="AutoCad">
+  <img src="https://img.shields.io/badge/-Aspen-lightgreen?style=flat-square&logo=aspen" alt="Aspen">
+  <img src="https://img.shields.io/badge/-ANSYS-darkred?style=flat-square&logo=ansys" alt="ANSYS">
+  <img src="https://img.shields.io/badge/-Mathematica-purple?style=flat-square&logo=wolfram" alt="Mathematica">
+  <img src="https://img.shields.io/badge/-Matlab-yellowgreen?style=flat-square&logo=mathworks" alt="Matlab">
+  <img src="https://img.shields.io/badge/-Gaussian-blue?style=flat-square&logo=gnu-bash" alt="Gaussian">
+  <img src="https://img.shields.io/badge/-Gnuplot-lightpurple?style=flat-square&logo=gnuplot" alt="Gnuplot">
+</p>
 
 ### Development Practices
-![Agile](https://img.shields.io/badge/-Agile-blueviolet?style=flat-square&logo=agile) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) ![Git Bash](https://img.shields.io/badge/-Git%20Bash-lightgrey?style=flat-square&logo=gnu-bash)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Agile-blueviolet?style=flat-square&logo=agile" alt="Agile">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Git%20Bash-lightgrey?style=flat-square&logo=gnu-bash" alt="Git Bash">
+</p>
 
 ## Languages
 
