@@ -11,7 +11,6 @@
 ## Learning
 - 🌱 Chemical Engineer. MSc in Computer Modeling. Currently undertaking a Higher Technical Certificate in Cross-Platform Applications Development.
 
-##  How to reach me
 ## Skills
 
 ### Programming Languages
