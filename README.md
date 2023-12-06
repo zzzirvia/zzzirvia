@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there! 👋 I'm Sílvia
 
-<!--
-**zzzirvia/zzzirvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 👨‍💻 Conmputational Scrientist: Agile, flexible and team-working mind. Always eager to find solutions to any kind of issue. Science, engineering and IT enthusiastic. Willing to learn and reach new challenges.
+- 🌐 [LinkedIn](linkedin.com/in/silvia-álvarez-díaz/)
 
-Here are some ideas to get you started:
+## Current Work
+- 🎓 Working as full-stack developer for a start-up. Chemical products distributor e-commerce:
+   Leader in web crawling/scrapping. Data curation, monitoring, operations and deploy (Python, Selenium\&Playwright, SQL. High Git Bash skills)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+- 🌱 Chemical Engineer. MSc in Computer Modeling. Currently undertaking a Higher Technical Certificate in Cross-Platform Applications Development.
+
+##  How to reach me
+## Skills
+
+### Programming Languages
+- Python, Java, Fortran, JS/TS, Django, React, Angular, HTML, CSS, BASH, SQL, VBa, MPI
+
+### Tools
+- Excel, Power Apps, SolidWorks, AutoCad, Aspen, ANSYS (CFD), Wolfram Mathematica, Matlab, Gaussian, Gnuplot
+
+### Development Practices
+- Agile, GitHub, Git Bash
+
+## Languages
+
+- Spanish: 🌟🌟🌟🌟🌟
+- Catalan: 🌟🌟🌟🌟🌟
+- English: 🌟🌟🌟🌟
+- Galician: 🌟🌟🌟🌟
+- French: 🌟🌟
+- German: 🌟
