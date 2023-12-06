@@ -2,7 +2,7 @@
 
 ## About Me
 - 👨‍💻 Computational Scientist: Agile, flexible and team-working mind. Always eager to find solutions to any kind of issue. Science, engineering and IT enthusiast. Willing to learn and reach new challenges.
-- 🌐 [LinkedIn](linkedin.com/in/silvia-álvarez-díaz/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](linkedin.com/in/silvia-álvarez-díaz/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](linkedin.com/in/silvia-álvarez-díaz/)
 
 ## Current Work
 - 💼 Working as a full-stack developer for a start-up. Chemical products distributor e-commerce:
