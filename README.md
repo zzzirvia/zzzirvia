@@ -19,9 +19,9 @@
 - 🌱 Currently undertaking a Higher Technical Certificate in Cross-Platform Applications Development.
 
 ## Projects & research:
-- Spatially distributed SIR models for COVID-19 propagations, BIOCOMSC:
+- 🔍 Spatially distributed SIR models for COVID-19 propagations, BIOCOMSC:
   Complex systems epidemiological dynamics studies for an infectious agent SEIR type in discrete time euclidean and complex networks. Simulations performed with Fortran, Python, Bash scripts and Gnuplot. Study of the net and agent's input variables effect on the system's dynamics. Study of the complexing networks effect with the input variables parametrized on the agent's propagation adjusted with a Watts-Strogatz algorithm and Poisson distribution.
-- Cooling cycle to avoid water wasting in the lab heat exchanger, UB:
+- 🔍 Cooling cycle to avoid water wasting in the lab heat exchanger, UB:
   Study of the addition of a Peltier module and a heat pipe to the heat exchanger unit in the Chemical Engineering department lab, in order to save water during practices by cooling it back instead of constantly wasting stream water. Study of the efficiency with CFD Ansys simulations.
 
 ## Skills
