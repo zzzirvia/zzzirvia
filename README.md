@@ -7,12 +7,22 @@
   <a href="https://www.linkedin.com/in/silvia-%C3%A1lvarez-d%C3%ADaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"></a>
 </p>
 
-## Current Work
+## Recent Work
 - 💼 Working as a full-stack developer for a start-up. Chemical products distributor e-commerce:
   - Leader in web crawling/scrapping. Data curation, monitoring, operations, and deploy (Python, Selenium\&Playwright, SQL. High Git Bash skills)
 
+## Current Work
+- 💼 Engineer&developer for Naralabs as a company specialising in Laboratory Information Management System (LIMS) offering professional technology services and engineering with SENAITE LIMS, such as developing, consulting, implementing, training, system maintenaning and support.
+
 ## Learning
-- 🌱 Chemical Engineer. MSc in Computer Modeling. Currently undertaking a Higher Technical Certificate in Cross-Platform Applications Development.
+- 🌱 Chemical Engineer. MSc in Computer Modeling.
+- 🌱 Currently undertaking a Higher Technical Certificate in Cross-Platform Applications Development.
+
+## Projects & research:
+- Spatially distributed SIR models for COVID-19 propagations, BIOCOMSC:
+  Complex systems epidemiological dynamics studies for an infectious agent SEIR type in discrete time euclidean and complex networks. Simulations performed with Fortran, Python, Bash scripts and Gnuplot. Study of the net and agent's input variables effect on the system's dynamics. Study of the complexing networks effect with the input variables parametrized on the agent's propagation adjusted with a Watts-Strogatz algorithm and Poisson distribution.
+- Cooling cycle to avoid water wasting in the lab heat exchanger, UB:
+  Study of the addition of a Peltier module and a heat pipe to the heat exchanger unit in the Chemical Engineering department lab, in order to save water during practices by cooling it back instead of constantly wasting stream water. Study of the efficiency with CFD Ansys simulations.
 
 ## Skills
 
@@ -60,5 +70,5 @@
 - Catalan: 🌟🌟🌟🌟🌟
 - English: 🌟🌟🌟🌟
 - Galician: 🌟🌟🌟🌟
-- French: 🌟🌟
+- French: 🌟
 - German: 🌟
