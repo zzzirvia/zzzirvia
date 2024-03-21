@@ -26,7 +26,7 @@
 
 ## Skills
 
-### Programming Languages
+### Programming Languages and Skills
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" alt="Java">
@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css3" alt="CSS">
   <img src="https://img.shields.io/badge/-BASH-lightgrey?style=for-the-badge&logo=gnu-bash" alt="BASH">
   <img src="https://img.shields.io/badge/-SQL-darkorange?style=for-the-badge&logo=mysql" alt="SQL">
+  <img src="https://img.shields.io/badge/-Zope-blueviolet?style=for-the-badge&logo=zope" alt="Zope">
+  <img src="https://img.shields.io/badge/-Plone-orange?style=for-the-badge&logo=plone" alt="Plone">
   <img src="https://img.shields.io/badge/-VBA-yellow?style=for-the-badge&logo=microsoft-excel" alt="VBA">
   <img src="https://img.shields.io/badge/-MPI-darkblue?style=for-the-badge&logo=mpi" alt="MPI">
 </p>
