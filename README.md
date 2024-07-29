@@ -10,7 +10,7 @@
 ## Recent Works
 - 💼 Worked as a full-stack developer for a start-up. Chemical products distributor e-commerce:
   - Leader in web crawling/scrapping. Data curation, monitoring, operations, and deploy (Python, Selenium\&Playwright, SQL. High Git Bash skills)
-- 💼 Working as engineer&developer for Naralabs as a company specialising in Laboratory Information Management System (LIMS) offering professional technology services and engineering with SENAITE LIMS, such as developing, consulting, implementing, training, system maintenaning and support.
+- 💼 Worked as engineer&developer for Naralabs as a company specialising in Laboratory Information Management System (LIMS) offering professional technology services and engineering with SENAITE LIMS, such as developing, consulting, implementing, training, system maintenaning and support.
 
 ## Current Work
 - 💼 Working as engineer and computer modeller for a European consulting firm in nuclear waste management.
@@ -18,7 +18,7 @@
   - Developing tools with WPF & C# and Python.
 
 ## Learning
-- 🌱 Chemical Engineer. MSc in Computer Modeling.
+- 🌱 BSc Chemical Engineering + MSc in Computer Modeling.
 - 🌱 Currently undertaking a Higher Technical Certificate in Cross-Platform Applications Development.
 
 ## Projects & research:
