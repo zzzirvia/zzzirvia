@@ -46,7 +46,11 @@
   <img src="https://img.shields.io/badge/-Plone-orange?style=for-the-badge&logo=plone" alt="Plone">
   <img src="https://img.shields.io/badge/-VBA-yellow?style=for-the-badge&logo=microsoft-excel" alt="VBA">
   <img src="https://img.shields.io/badge/-MPI-darkblue?style=for-the-badge&logo=mpi" alt="MPI">
+  <img src="https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=c-sharp" alt="C#">
+  <img src="https://img.shields.io/badge/-.NET-blue?style=for-the-badge&logo=dotnet" alt=".NET">
+  <img src="https://img.shields.io/badge/-WPF-darkblue?style=for-the-badge&logo=windows" alt="WPF">
 </p>
+
 
 ### Tools
 <p align="center">
