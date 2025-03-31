@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sílvia
 
 ## About Me
-- 👨‍💻 Computational Scientist: Agile, flexible and team-working mind. Always eager to find solutions to any kind of issue. Science, engineering and IT enthusiast. Willing to learn and reach new challenges.
+- 👨‍💻 **Computer Modeler, Chemical engineer, Full-Stack Developer**: Agile, flexible and team-working mind. Always eager to find solutions to any kind of issue. Science, engineering and IT enthusiast. Willing to learn and reach new challenges.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/silvia-%C3%A1lvarez-d%C3%ADaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"></a>
