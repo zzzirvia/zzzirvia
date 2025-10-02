@@ -21,8 +21,8 @@
 
 ## Learning
 - 🌱 BSc Chemical Engineering + MSc in Computer Modeling.
-- 🌱 Currently undertaking a Higher Technical Certificate in Cross-Platform Applications Development.
-- 🌱 Phd in Spent Nuclear Fuel starting in September 2025.
+- 🌱 Higher Technical Certificate in Cross-Platform Applications Development.
+- 🌱 (Currently) PhD Researcher in Spent Nuclear Fuel.
 
 ## Projects & research:
 - 🔍 Spatially distributed SIR models for COVID-19 propagations, BIOCOMSC:
