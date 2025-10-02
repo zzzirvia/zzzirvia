@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sílvia
 
 ## About Me
-- **PhD Researcher in Spent Nuclear Fuel (WP8 - SAREC (EURAD-2). CGEC-ENRESA. UPC Chemical Process Engineering program)**
+- 👨‍💻 **PhD Researcher in Spent Nuclear Fuel (WP8 - SAREC (EURAD-2). CGEC-ENRESA. UPC Chemical Process Engineering program)**
 - 👨‍💻 **Computer Modeler, Chemical engineer, Full-Stack Developer**: Agile, flexible and team-working mind. Always eager to find solutions to any kind of issue. Science, engineering and IT enthusiast. Willing to learn and reach new challenges.
 
 <p align="center">
