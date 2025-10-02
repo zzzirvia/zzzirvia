@@ -8,16 +8,16 @@
   <a href="https://www.linkedin.com/in/silvia-%C3%A1lvarez-d%C3%ADaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"></a>
 </p>
 
-## Recent Works
-- 💼 Worked as a full-stack developer for a start-up. Chemical products distributor e-commerce:
-  - Leader in web crawling/scrapping. Data curation, monitoring, operations, and deploy (Python, Selenium\&Playwright, SQL. High Git Bash skills)
-- 💼 Worked as engineer&developer for Naralabs as a company specialising in Laboratory Information Management System (LIMS) offering professional technology services and engineering with SENAITE LIMS, such as developing, consulting, implementing, training, system maintenaning and support.
-
 ## Current Work
 - 💼 Working as computer modeller and scientist for a European consulting firm in nuclear waste management, Amphos 21, in Radiactive Waste Management department.
   - Data management, curation and parameterization.
   - Developing tools with WPF & C# and Python.
   - Early researching
+
+## Recent Works
+- 💼 Worked as a full-stack developer for a start-up. Chemical products distributor e-commerce:
+  - Leader in web crawling/scrapping. Data curation, monitoring, operations, and deploy (Python, Selenium\&Playwright, SQL. High Git Bash skills)
+- 💼 Worked as engineer&developer for Naralabs as a company specialising in Laboratory Information Management System (LIMS) offering professional technology services and engineering with SENAITE LIMS, such as developing, consulting, implementing, training, system maintenaning and support.
 
 ## Learning
 - 🌱 BSc Chemical Engineering + MSc in Computer Modeling.
